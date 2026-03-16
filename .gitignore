@@ -260,6 +260,8 @@ UpgradeLog*.XML
 UpgradeLog*.htm
 ServiceFabricBackup/
 *.rptproj.bak
+env/
+*.pyproj
 
 # SQL Server files
 *.mdf
@@ -361,3 +363,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/gear_games_test.pyproj
